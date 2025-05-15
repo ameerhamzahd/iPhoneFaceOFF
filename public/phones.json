@@ -1,0 +1,306 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 13 mini",
+    "release_year": 2021,
+    "chipset": "Apple A15 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-mini.jpg",
+    "price": {
+      "128GB": "$899.90",
+      "256GB": "$999.90",
+      "512GB": "$1,149.90"
+    },
+    "subtitle": "Compact power with flagship performance in your pocket.",
+    "description": "The iPhone 13 mini is the ultimate compact smartphone, powered by the A15 Bionic chip for lightning-fast performance and exceptional energy efficiency. Its 5.4-inch Super Retina XDR display delivers stunning detail, while the dual-camera system supports Night Mode and Cinematic video recording — all packed into a sleek, pocket-friendly design.",
+    "storage": [
+      "128GB 4GB RAM",
+      "256GB 4GB RAM",
+      "512GB 4GB RAM"
+    ],
+    "camera_info": "Dual-camera system; Night mode and 4K video recording."
+  },
+  {
+    "id": 2,
+    "name": "iPhone 13 Pro",
+    "release_year": 2021,
+    "chipset": "Apple A15 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro.jpg",
+    "price": {
+      "128GB": "$799.90",
+      "256GB": "$899.90",
+      "512GB": "$1,049.90",
+      "1TB": "$1,199.90"
+    },
+    "subtitle": "Professional-grade camera and speed in a sleek design.",
+    "description": "Engineered for power users, the iPhone 13 Pro features the supercharged A15 Bionic chip, ProMotion 120Hz refresh rate, and a triple 12MP camera system with LiDAR scanner for advanced low-light photography and AR experiences. With up to 1TB of storage and a bright 6.1-inch OLED display, it's designed to handle anything from creative workflows to intensive gaming.",
+    "storage": [
+      "128GB 6GB RAM",
+      "256GB 6GB RAM",
+      "512GB 6GB RAM",
+      "1TB 6GB RAM"
+    ],
+    "camera_info": "Triple-camera system with LiDAR scanner; ProRAW and ProRes video."
+  },
+  {
+    "id": 3,
+    "name": "iPhone 13 Pro Max",
+    "release_year": 2021,
+    "chipset": "Apple A15 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13-pro-max.jpg",
+    "price": {
+      "128GB": "$709.90",
+      "256GB": "$809.90",
+      "512GB": "$959.90",
+      "1TB": "$1,109.90"
+    },
+    "subtitle": "The ultimate iPhone experience with cinematic brilliance.",
+    "description": "The iPhone 13 Pro Max offers Apple’s most advanced features, including a massive 6.7-inch Super Retina XDR display with ProMotion, up to 1TB storage, and a powerful triple-lens camera system with LiDAR for detailed night photography and cinematic video. Backed by the A15 Bionic chip, it's built for creators and professionals seeking top-tier performance and battery life.",
+    "storage": [
+      "128GB 6GB RAM",
+      "256GB 6GB RAM",
+      "512GB 6GB RAM",
+      "1TB 6GB RAM"
+    ],
+    "camera_info": "Triple-camera with larger sensors; Cinematic mode."
+  },
+  {
+    "id": 4,
+    "name": "iPhone 13",
+    "release_year": 2021,
+    "chipset": "Apple A15 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-13.jpg",
+    "price": {
+      "128GB": "$699.90",
+      "256GB": "$799.90",
+      "512GB": "$949.90"
+    },
+    "subtitle": "Everyday performance meets stunning camera clarity.",
+    "description": "Balancing performance and style, the iPhone 13 brings a vibrant 6.1-inch OLED display, powerful A15 Bionic chip, and dual cameras with Cinematic Mode and Photographic Styles. Its improved battery life, sleek flat-edge design, and durable Ceramic Shield front make it a versatile choice for everyday users.",
+    "storage": [
+      "128GB 4GB RAM",
+      "256GB 4GB RAM",
+      "512GB 4GB RAM"
+    ],
+    "camera_info": "Dual-camera system with improved low-light performance."
+  },
+  {
+    "id": 5,
+    "name": "iPhone 12 Pro Max",
+    "release_year": 2020,
+    "chipset": "Apple A14 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro-max-.jpg",
+    "price": {
+      "128GB": "$599.90",
+      "256GB": "$699.90",
+      "512GB": "$849.90"
+    },
+    "subtitle": "Big screen, big power, and pro-level photography.",
+    "description": "Designed for professionals, the iPhone 12 Pro Max features a 6.7-inch Super Retina XDR display, triple 12MP camera system with LiDAR, and the A14 Bionic chip for ultra-fast performance. With advanced Dolby Vision HDR recording and MagSafe compatibility, it’s perfect for photography, video editing, and premium multimedia use.",
+    "storage": [
+      "128GB 6GB RAM",
+      "256GB 6GB RAM",
+      "512GB 6GB RAM"
+    ],
+    "camera_info": "Triple-camera with LiDAR sensor; 5x digital zoom."
+  },
+  {
+    "id": 6,
+    "name": "iPhone 12 Pro",
+    "release_year": 2020,
+    "chipset": "Apple A14 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-pro--.jpg",
+    "price": {
+      "128GB": "$509.90",
+      "256GB": "$609.90",
+      "512GB": "$759.90"
+    },
+    "subtitle": "Elegant design with advanced camera versatility.",
+    "description": "The iPhone 12 Pro delivers powerful performance through the A14 Bionic chip and supports 5G connectivity for lightning-fast downloads. It includes a 6.1-inch OLED display, a LiDAR sensor for better AR and night photography, and a pro-grade triple camera system – all wrapped in a stainless steel body.",
+    "storage": [
+      "128GB 6GB RAM",
+      "256GB 6GB RAM",
+      "512GB 6GB RAM"
+    ],
+    "camera_info": "Triple-camera with Night mode portraits."
+  },
+  {
+    "id": 7,
+    "name": "iPhone 12",
+    "release_year": 2020,
+    "chipset": "Apple A14 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12.jpg",
+    "price": {
+      "64GB": "$499.90",
+      "128GB": "$549.90",
+      "256GB": "$649.90"
+    },
+    "subtitle": "Fast, stylish, and built for vibrant everyday use.",
+    "description": "Smart, sleek, and fast — the iPhone 12 features a 6.1-inch OLED display, A14 Bionic chip, and 5G support. The dual-camera system brings Night Mode to both lenses, while Ceramic Shield ensures added durability. It’s the ideal choice for users looking for performance and design at a great value.",
+    "storage": [
+      "64GB 4GB RAM",
+      "128GB 4GB RAM",
+      "256GB 4GB RAM"
+    ],
+    "camera_info": "Dual-camera with Smart HDR 3."
+  },
+  {
+    "id": 8,
+    "name": "iPhone 12 mini",
+    "release_year": 2020,
+    "chipset": "Apple A14 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-12-mini.jpg",
+    "price": {
+      "64GB": "$409.90",
+      "128GB": "$459.90",
+      "256GB": "$559.90"
+    },
+    "subtitle": "Small in size, bold in performance and design.",
+    "description": "The iPhone 12 mini is the world’s smallest, thinnest 5G smartphone, combining a compact 5.4-inch OLED screen with the power of the A14 Bionic chip. Enjoy the same dual-camera system and MagSafe functionality as the iPhone 12, but in a mini form perfect for those who value portability without compromise.",
+    "storage": [
+      "64GB 4GB RAM",
+      "128GB 4GB RAM",
+      "256GB 4GB RAM"
+    ],
+    "camera_info": "Compact dual-camera phone with Night mode."
+  },
+  {
+    "id": 9,
+    "name": "iPhone SE (2020)",
+    "release_year": 2020,
+    "chipset": "Apple A13 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-se-2020.jpg",
+    "price": {
+      "64GB": "$399.90",
+      "128GB": "$449.90",
+      "256GB": "$499.90"
+    },
+    "subtitle": "Classic style meets modern power at a great value.",
+    "description": "The iPhone SE (2nd generation) offers incredible value with the same A13 Bionic chip found in the iPhone 11 Pro. It retains the classic design with a 4.7-inch Retina HD display and Touch ID, while supporting powerful features like 4K video recording, wireless charging, and water resistance — all at an affordable price point.",
+    "storage": [
+      "64GB 3GB RAM",
+      "128GB 3GB RAM",
+      "256GB 3GB RAM"
+    ],
+    "camera_info": "Single 12MP camera; A13 Bionic chip."
+  },
+  {
+    "id": 10,
+    "name": "iPhone 11 Pro Max",
+    "release_year": 2019,
+    "chipset": "Apple A13 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro.jpg",
+    "price": {
+      "64GB": "$309.90",
+      "256GB": "$409.90",
+      "512GB": "$559.90"
+    },
+    "subtitle": "Capture more with a larger screen and triple camera.",
+    "description": "Built for maximum performance and screen real estate, the iPhone 11 Pro Max comes with a 6.5-inch OLED display, triple-camera system with 4K video, and the A13 Bionic chip. It features all-day battery life, Face ID, and stunning color accuracy — a strong choice for users seeking immersive visuals and pro features.",
+    "storage": [
+      "64GB 4GB RAM",
+      "256GB 4GB RAM",
+      "512GB 4GB RAM"
+    ],
+    "camera_info": "Triple-camera with Deep Fusion and Night mode."
+  },
+  {
+    "id": 11,
+    "name": "iPhone 11 Pro",
+    "release_year": 2019,
+    "chipset": "Apple A13 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11-pro-max-.jpg",
+    "price": {
+      "64GB": "$299.90",
+      "256GB": "$399.90",
+      "512GB": "$549.90"
+    },
+    "subtitle": "Smooth performance with pro-level camera precision.",
+    "description": "The iPhone 11 Pro features a 5.8-inch Super Retina XDR display, triple-camera setup with Night Mode, and smooth performance from the A13 Bionic chip. With a compact build and premium matte glass finish, it's ideal for professionals who want power in a smaller size.",
+    "storage": [
+      "64GB 4GB RAM",
+      "256GB 4GB RAM",
+      "512GB 4GB RAM"
+    ],
+    "camera_info": "Triple-camera with improved HDR and 4K video."
+  },
+  {
+    "id": 12,
+    "name": "iPhone 11",
+    "release_year": 2019,
+    "chipset": "Apple A13 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-11.jpg",
+    "price": {
+      "64GB": "$219.90",
+      "128GB": "$269.90",
+      "256GB": "$319.90"
+    },
+    "subtitle": "Dual-camera simplicity with vibrant all-day power.",
+    "description": "Smart, fast, and colorful, the iPhone 11 is powered by the A13 Bionic chip and features a 6.1-inch Liquid Retina LCD, dual 12MP cameras with Night Mode, and excellent battery life. A great option for everyday users wanting performance and camera versatility at a reasonable price.",
+    "storage": [
+      "64GB 4GB RAM",
+      "128GB 4GB RAM",
+      "256GB 4GB RAM"
+    ],
+    "camera_info": "Dual-camera system with 4K video and Night mode."
+  },
+  {
+    "id": 13,
+    "name": "iPhone XS Max",
+    "release_year": 2018,
+    "chipset": "Apple A12 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-max-new1.jpg",
+    "price": {
+      "64GB": "$209.90",
+      "256GB": "$259.90",
+      "512GB": "$309.90"
+    },
+    "subtitle": "Larger display, premium feel, and smart performance.",
+    "description": "The iPhone XS Max boasts a large 6.5-inch Super Retina OLED display, Face ID, and a dual-camera system with Smart HDR. Powered by the A12 Bionic chip, it offers smooth multitasking, vibrant visuals, and a premium glass and stainless steel design for users who love big screens and seamless performance.",
+    "storage": [
+      "64GB 4GB RAM",
+      "256GB 4GB RAM",
+      "512GB 4GB RAM"
+    ],
+    "camera_info": "Dual-camera with Smart HDR and 2x optical zoom."
+  },
+  {
+    "id": 14,
+    "name": "iPhone XR",
+    "release_year": 2018,
+    "chipset": "Apple A12 Bionic",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xr-new.jpg",
+    "price": {
+      "64GB": "$201.90",
+      "128GB": "$251.90",
+      "256GB": "$301.90"
+    },
+    "subtitle": "Colorful, fast, and made for fun and function.",
+    "description": "Vivid and powerful, the iPhone XR features a 6.1-inch Liquid Retina display, Face ID, and the A12 Bionic chip. It comes in a variety of bright colors and delivers excellent battery life and performance, making it a fun and functional phone for casual users.",
+    "storage": [
+      "64GB 3GB RAM",
+      "128GB 3GB RAM",
+      "256GB 3GB RAM"
+    ],
+    "camera_info": "Single 12MP camera; Portrait mode and Smart HDR."
+  },
+  {
+    "id": 15,
+    "release_year": 2018,
+    "chipset": "Apple A12 Bionic",
+    "name": "iPhone XS",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/apple-iphone-xs-new.jpg",
+    "price": {
+      "64GB": "$199.90",
+      "256GB": "$249.90",
+      "512GB": "$299.90"
+    },
+    "subtitle": "Refined design with dual-camera intelligence.",
+    "description": "Compact yet capable, the iPhone XS features a 5.8-inch OLED display, dual 12MP cameras, and Face ID. With its A12 Bionic chip and glass-body finish, it provides a high-end iPhone experience in a more pocket-friendly design.",
+    "storage": [
+      "64GB 4GB RAM",
+      "256GB 4GB RAM",
+      "512GB 4GB RAM"
+    ],
+    "camera_info": "Dual-camera setup; 4K video with stereo sound recording."
+  }
+]

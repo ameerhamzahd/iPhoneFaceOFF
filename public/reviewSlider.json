@@ -1,0 +1,62 @@
+[
+    {
+        "id": "01",
+        "name01": "A.K.M. Murshadur Rahman",
+        "rating01": 4.7,
+        "subtitle01": "A well-structured project with clean UI and smooth navigation.",
+        "name02": "Fatimah Zahra",
+        "rating02": 4.9,
+        "subtitle02": "Highly responsive and follows good design principles.",
+        "name03": "Abdullah Ahmed",
+        "rating03": 4.5,
+        "subtitle03": "Functional and neat. Backend integration is impressive."
+    },
+    {
+        "id": "02",
+        "name01": "Khadijah Bint Ali",
+        "rating01": 5.0,
+        "subtitle01": "Absolutely loved the clarity and simplicity of the layout.",
+        "name02": "Omar Farooq",
+        "rating02": 4.8,
+        "subtitle02": "Great use of components and reusable code.",
+        "name03": "Yusuf Kamal",
+        "rating03": 4.4,
+        "subtitle03": "Design is minimal and user-friendly. Well optimized."
+    },
+    {
+        "id": "03",
+        "name01": "Zainab Hussain",
+        "rating01": 4.9,
+        "subtitle01": "Professional look and smooth animations. Really impressed.",
+        "name02": "Bilal Saeed",
+        "rating02": 4.6,
+        "subtitle02": "API handling is clean and logical. Great job!",
+        "name03": "Ayesha Siddiqah",
+        "rating03": 4.7,
+        "subtitle03": "Very organized and scalable codebase. Loved the approach."
+    },
+    {
+        "id": "04",
+        "name01": "Muhammad Ali",
+        "rating01": 4.3,
+        "subtitle01": "Great start. Could enhance mobile responsiveness.",
+        "name02": "Hafsa Qureshi",
+        "rating02": 4.8,
+        "subtitle02": "UI is elegant and flows well with user actions.",
+        "name03": "Imran Khan",
+        "rating03": 4.2,
+        "subtitle03": "Solid logic and good use of state management."
+    },
+    {
+        "id": "05",
+        "name01": "Sumayyah Yasir",
+        "rating01": 4.6,
+        "subtitle01": "Very intuitive layout with fast loading time.",
+        "name02": "Zaid Rahman",
+        "rating02": 4.7,
+        "subtitle02": "Everything functions as expected — clean and fast.",
+        "name03": "Maryam Anwar",
+        "rating03": 4.5,
+        "subtitle03": "I loved how simple and effective the interface is."
+    }
+]

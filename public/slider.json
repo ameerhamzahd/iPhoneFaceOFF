@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "iPhone 15 Pro",
+      "subtitle": "Titanium. So strong. So light. So Pro.",
+      "description": "Experience the revolutionary A17 Pro chip, a customizable Action button, and the most powerful iPhone camera system ever.",
+      "image": "https://res.cloudinary.com/dgt4ygjhp/image/upload/v1746886993/slider01bg_qmorvh.png",
+      "buttonText": "Shop iPhone 15 Pro",
+      "buttonLink": "#products",
+      "color": "from-black/70 to-black/40"
+    },
+    {
+      "id": 2,
+      "title": "iPhone 14",
+      "subtitle": "A total powerhouse.",
+      "description": "With the powerful A15 Bionic chip, amazing battery life, and a stunning Super Retina XDR display.",
+      "image": "https://res.cloudinary.com/dgt4ygjhp/image/upload/v1746886994/slider04bg_uik60n.png",
+      "buttonText": "Explore iPhone 14",
+      "buttonLink": "#products",
+      "color": "from-blue-900/70 to-blue-800/40"
+    },
+    {
+      "id": 3,
+      "title": "iPhone SE",
+      "subtitle": "Serious power. Serious value.",
+      "description": "Get the A15 Bionic chip, 5G, better battery life, and improved durability in the most affordable iPhone.",
+      "image": "https://images.unsplash.com/photo-1592899677977-9c10ca588bbd?q=80&w=2329&auto=format&fit=crop",
+      "buttonText": "Discover iPhone SE",
+      "buttonLink": "#products",
+      "color": "from-red-900/70 to-red-800/40"
+    },
+    {
+      "id": 4,
+      "title": "Trade In & Save",
+      "subtitle": "Upgrade to the latest iPhone.",
+      "description": "Get credit toward a new iPhone when you trade in your current one. It's good for you and the planet.",
+      "image": "https://res.cloudinary.com/dgt4ygjhp/image/upload/v1746886993/slider05bg_lio2ha.png",
+      "buttonText": "See Trade-in Options",
+      "buttonLink": "#products",
+      "color": "from-green-900/70 to-green-800/40"
+    }
+  ]
+  
